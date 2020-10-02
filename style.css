@@ -120,5 +120,15 @@ ul.top_menu {
   color: #4D4D4D;
 }
 .contact tr{
- height: 7rem;
+  height: 7rem;
  }
+ .contact th{
+   width: 150px;
+ }
+ .input .text{
+   width: 480px;
+ }
+.b:hover{
+  background-color:#FCECEC;
+  opacity: 0.6;
+}
